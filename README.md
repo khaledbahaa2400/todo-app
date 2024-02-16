@@ -45,5 +45,5 @@ Livewire official docs: https://livewire.laravel.com/docs/quickstart
 ### Features
 * Login and Registration
 * Create, modify and delete todos
-* Mark and munmark todos as completed
+* Mark and unmark todos as completed
 * Search for specific todos
